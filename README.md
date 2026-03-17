@@ -6,7 +6,9 @@ incident summaries including attributes like severity, root cause, affected serv
 Built with FastAPI, Groq (LLaMA 3.3), and Streamlit.
 
 ![Demo1](Demo1.png)
+
 ![Demo2](Demo2.png)
+
 ![Demo3](Demo3.png)
 
 ---
